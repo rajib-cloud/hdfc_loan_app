@@ -9,7 +9,7 @@ public class Factorial {
     }
 
     public static void main(String[] args) {
-        System.out.println("Factorial of 5 = " + factorial(5));
+        System.out.println("Factorial of 5 is = " + factorial(5));
     }
 }
 ```
@@ -17,5 +17,5 @@ public class Factorial {
 **Output:**
 
 ```
-Factorial of 5 = 120
+Factorial of  5 is  = 120
 ```
